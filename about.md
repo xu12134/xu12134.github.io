@@ -3,7 +3,6 @@ layout: default
 title: About
 ---
 # About page
-<!doctype html>
 <html>
 
 <head>

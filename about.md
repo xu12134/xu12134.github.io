@@ -1,12 +1,11 @@
 ---
 layout: default
-title: About
+title: 看一看新鲜的事
 ---
 <html>
 
 <head>
     <meta charset="utf-8">
-    <title>About</title>
 </head>
 
 <body>

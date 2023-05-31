@@ -8,7 +8,6 @@ title: About
 <head>
     <meta charset="utf-8">
     <title>About</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 
 <body>
